@@ -1,0 +1,511 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learn_C#\\TaskManagerClean\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9727BE7-4955-4DE9-9074-D149EC15DC53}|..\\TaskManagerClean.Application\\TaskManagerClean.Application.csproj|d:\\learn_c#\\taskmanagerclean.application\\services\\taskservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9727BE7-4955-4DE9-9074-D149EC15DC53}|..\\TaskManagerClean.Application\\TaskManagerClean.Application.csproj|d:\\learn_c#\\taskmanagerclean.application\\usecases\\commands\\gettaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9727BE7-4955-4DE9-9074-D149EC15DC53}|..\\TaskManagerClean.Application\\TaskManagerClean.Application.csproj|d:\\learn_c#\\taskmanagerclean.application\\usecases\\handllers\\gettaskbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF2E0DC-5118-44F3-A3CF-EEC0B3D2E5A2}|..\\TaskManagerClean.Infrastructure\\TaskManagerClean.Infrastructure.csproj|d:\\learn_c#\\taskmanagerclean.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705681EA-C1DF-4027-831A-0DEBC0C28558}|TaskManagerClean.csproj|d:\\learn_c#\\taskmanagerclean\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705681EA-C1DF-4027-831A-0DEBC0C28558}|TaskManagerClean.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BF7462-6B99-4D2D-82B9-C7ADB6C6C4DA}|..\\TaskManagerClean.Persistence\\TaskManagerClean.Persistence.csproj|d:\\learn_c#\\taskmanagerclean.persistence\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705681EA-C1DF-4027-831A-0DEBC0C28558}|TaskManagerClean.csproj|d:\\learn_c#\\taskmanagerclean\\taskmanagerclean.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{705681EA-C1DF-4027-831A-0DEBC0C28558}|TaskManagerClean.csproj|solutionrelative:taskmanagerclean.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF2E0DC-5118-44F3-A3CF-EEC0B3D2E5A2}|..\\TaskManagerClean.Infrastructure\\TaskManagerClean.Infrastructure.csproj|d:\\learn_c#\\taskmanagerclean.infrastructure\\taskmanagerclean.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9727BE7-4955-4DE9-9074-D149EC15DC53}|..\\TaskManagerClean.Application\\TaskManagerClean.Application.csproj|d:\\learn_c#\\taskmanagerclean.application\\taskmanagerclean.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705681EA-C1DF-4027-831A-0DEBC0C28558}|TaskManagerClean.csproj|d:\\learn_c#\\taskmanagerclean\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{705681EA-C1DF-4027-831A-0DEBC0C28558}|TaskManagerClean.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9727BE7-4955-4DE9-9074-D149EC15DC53}|..\\TaskManagerClean.Application\\TaskManagerClean.Application.csproj|d:\\learn_c#\\taskmanagerclean.application\\usecases\\handllers\\updatetaskhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9727BE7-4955-4DE9-9074-D149EC15DC53}|..\\TaskManagerClean.Application\\TaskManagerClean.Application.csproj|d:\\learn_c#\\taskmanagerclean.application\\usecases\\handllers\\updatedetalistaskhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9727BE7-4955-4DE9-9074-D149EC15DC53}|..\\TaskManagerClean.Application\\TaskManagerClean.Application.csproj|d:\\learn_c#\\taskmanagerclean.application\\usecases\\commands\\getalltaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705681EA-C1DF-4027-831A-0DEBC0C28558}|TaskManagerClean.csproj|d:\\learn_c#\\taskmanagerclean\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705681EA-C1DF-4027-831A-0DEBC0C28558}|TaskManagerClean.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9727BE7-4955-4DE9-9074-D149EC15DC53}|..\\TaskManagerClean.Application\\TaskManagerClean.Application.csproj|d:\\learn_c#\\taskmanagerclean.application\\usecases\\handllers\\gettaskbystatushandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9727BE7-4955-4DE9-9074-D149EC15DC53}|..\\TaskManagerClean.Application\\TaskManagerClean.Application.csproj|d:\\learn_c#\\taskmanagerclean.application\\usecases\\handllers\\createtaskhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9727BE7-4955-4DE9-9074-D149EC15DC53}|..\\TaskManagerClean.Application\\TaskManagerClean.Application.csproj|d:\\learn_c#\\taskmanagerclean.application\\usecases\\commands\\updatetaskstatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9727BE7-4955-4DE9-9074-D149EC15DC53}|..\\TaskManagerClean.Application\\TaskManagerClean.Application.csproj|d:\\learn_c#\\taskmanagerclean.application\\usecases\\commands\\gettaskbystatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9727BE7-4955-4DE9-9074-D149EC15DC53}|..\\TaskManagerClean.Application\\TaskManagerClean.Application.csproj|d:\\learn_c#\\taskmanagerclean.application\\usecases\\commands\\createtaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705681EA-C1DF-4027-831A-0DEBC0C28558}|TaskManagerClean.csproj|d:\\learn_c#\\taskmanagerclean\\dtos\\createtaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705681EA-C1DF-4027-831A-0DEBC0C28558}|TaskManagerClean.csproj|solutionrelative:dtos\\createtaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9727BE7-4955-4DE9-9074-D149EC15DC53}|..\\TaskManagerClean.Application\\TaskManagerClean.Application.csproj|d:\\learn_c#\\taskmanagerclean.application\\usecases\\handllers\\deletetaskhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9727BE7-4955-4DE9-9074-D149EC15DC53}|..\\TaskManagerClean.Application\\TaskManagerClean.Application.csproj|d:\\learn_c#\\taskmanagerclean.application\\usecases\\handllers\\getalltaskhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C04756-3339-4298-B573-DC7D99712630}|..\\TaskManagerClean.Domain\\TaskManagerClean.Domain.csproj|d:\\learn_c#\\taskmanagerclean.domain\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C04756-3339-4298-B573-DC7D99712630}|..\\TaskManagerClean.Domain\\TaskManagerClean.Domain.csproj|d:\\learn_c#\\taskmanagerclean.domain\\taskmanagerclean.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C04756-3339-4298-B573-DC7D99712630}|..\\TaskManagerClean.Domain\\TaskManagerClean.Domain.csproj|d:\\learn_c#\\taskmanagerclean.domain\\enums\\tasksenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9727BE7-4955-4DE9-9074-D149EC15DC53}|..\\TaskManagerClean.Application\\TaskManagerClean.Application.csproj|d:\\learn_c#\\taskmanagerclean.application\\usecases\\commands\\updatedetalistaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9727BE7-4955-4DE9-9074-D149EC15DC53}|..\\TaskManagerClean.Application\\TaskManagerClean.Application.csproj|d:\\learn_c#\\taskmanagerclean.application\\usecases\\commands\\deletetaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C04756-3339-4298-B573-DC7D99712630}|..\\TaskManagerClean.Domain\\TaskManagerClean.Domain.csproj|d:\\learn_c#\\taskmanagerclean.domain\\entities\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BF7462-6B99-4D2D-82B9-C7ADB6C6C4DA}|..\\TaskManagerClean.Persistence\\TaskManagerClean.Persistence.csproj|d:\\learn_c#\\taskmanagerclean.persistence\\taskmanagerclean.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF2E0DC-5118-44F3-A3CF-EEC0B3D2E5A2}|..\\TaskManagerClean.Infrastructure\\TaskManagerClean.Infrastructure.csproj|d:\\learn_c#\\taskmanagerclean.infrastructure\\migrations\\20250403170057_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetAllTaskHandler.cs",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Handllers\\GetAllTaskHandler.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Application\\UseCases\\Handllers\\GetAllTaskHandler.cs",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Handllers\\GetAllTaskHandler.cs",
+              "RelativeToolTip": "..\\TaskManagerClean.Application\\UseCases\\Handllers\\GetAllTaskHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:47:11.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllTaskCommand.cs",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Commands\\GetAllTaskCommand.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Application\\UseCases\\Commands\\GetAllTaskCommand.cs",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Commands\\GetAllTaskCommand.cs",
+              "RelativeToolTip": "..\\TaskManagerClean.Application\\UseCases\\Commands\\GetAllTaskCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:44:43.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250403170057_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Infrastructure\\Migrations\\20250403170057_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Infrastructure\\Migrations\\20250403170057_InitialCreate.cs",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Infrastructure\\Migrations\\20250403170057_InitialCreate.cs",
+              "RelativeToolTip": "..\\TaskManagerClean.Infrastructure\\Migrations\\20250403170057_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:00:57.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T16:41:47.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateDetalisTaskHandler.cs",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Handllers\\UpdateDetalisTaskHandler.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Application\\UseCases\\Handllers\\UpdateDetalisTaskHandler.cs",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Handllers\\UpdateDetalisTaskHandler.cs",
+              "RelativeToolTip": "..\\TaskManagerClean.Application\\UseCases\\Handllers\\UpdateDetalisTaskHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:00:17.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateDetalisTaskCommand.cs",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Commands\\UpdateDetalisTaskCommand.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Application\\UseCases\\Commands\\UpdateDetalisTaskCommand.cs",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Commands\\UpdateDetalisTaskCommand.cs",
+              "RelativeToolTip": "..\\TaskManagerClean.Application\\UseCases\\Commands\\UpdateDetalisTaskCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:59:08.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskServise.cs",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Application\\Services\\TaskServise.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Application\\Services\\TaskServise.cs",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Application\\Services\\TaskServise.cs",
+              "RelativeToolTip": "..\\TaskManagerClean.Application\\Services\\TaskServise.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwD0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:48:06.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateTaskStatusCommand.cs",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Commands\\UpdateTaskStatusCommand.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Application\\UseCases\\Commands\\UpdateTaskStatusCommand.cs",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Commands\\UpdateTaskStatusCommand.cs",
+              "RelativeToolTip": "..\\TaskManagerClean.Application\\UseCases\\Commands\\UpdateTaskStatusCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:10:00.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetTaskByStatusCommand.cs",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Commands\\GetTaskByStatusCommand.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Application\\UseCases\\Commands\\GetTaskByStatusCommand.cs",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Commands\\GetTaskByStatusCommand.cs",
+              "RelativeToolTip": "..\\TaskManagerClean.Application\\UseCases\\Commands\\GetTaskByStatusCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:01:39.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetTaskCommand.cs",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Commands\\GetTaskCommand.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Application\\UseCases\\Commands\\GetTaskCommand.cs",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Commands\\GetTaskCommand.cs",
+              "RelativeToolTip": "..\\TaskManagerClean.Application\\UseCases\\Commands\\GetTaskCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:56:21.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DeleteTaskCommand.cs",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Commands\\DeleteTaskCommand.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Application\\UseCases\\Commands\\DeleteTaskCommand.cs",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Commands\\DeleteTaskCommand.cs",
+              "RelativeToolTip": "..\\TaskManagerClean.Application\\UseCases\\Commands\\DeleteTaskCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:36:33.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateTaskCommand.cs",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Commands\\CreateTaskCommand.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Application\\UseCases\\Commands\\CreateTaskCommand.cs",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Commands\\CreateTaskCommand.cs",
+              "RelativeToolTip": "..\\TaskManagerClean.Application\\UseCases\\Commands\\CreateTaskCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:23:09.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskManagerClean.Application.csproj",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Application\\TaskManagerClean.Application.csproj",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Application\\TaskManagerClean.Application.csproj",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Application\\TaskManagerClean.Application.csproj",
+              "RelativeToolTip": "..\\TaskManagerClean.Application\\TaskManagerClean.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T18:21:41.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:01:24.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskManagerClean.csproj",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean\\TaskManagerClean.csproj",
+              "RelativeDocumentMoniker": "TaskManagerClean.csproj",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean\\TaskManagerClean.csproj",
+              "RelativeToolTip": "TaskManagerClean.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T15:32:58.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateTaskRequest.cs",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean\\DTOs\\CreateTaskRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateTaskRequest.cs",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean\\DTOs\\CreateTaskRequest.cs",
+              "RelativeToolTip": "DTOs\\CreateTaskRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:33:43.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:13:22.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetTaskByIdHandler.cs",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Handllers\\GetTaskByIdHandler.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Application\\UseCases\\Handllers\\GetTaskByIdHandler.cs",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Handllers\\GetTaskByIdHandler.cs",
+              "RelativeToolTip": "..\\TaskManagerClean.Application\\UseCases\\Handllers\\GetTaskByIdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:22:54.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetTaskByStatusHandler.cs",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Handllers\\GetTaskByStatusHandler.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Application\\UseCases\\Handllers\\GetTaskByStatusHandler.cs",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Handllers\\GetTaskByStatusHandler.cs",
+              "RelativeToolTip": "..\\TaskManagerClean.Application\\UseCases\\Handllers\\GetTaskByStatusHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:11:55.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeleteTaskHandler.cs",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Handllers\\DeleteTaskHandler.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Application\\UseCases\\Handllers\\DeleteTaskHandler.cs",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Handllers\\DeleteTaskHandler.cs",
+              "RelativeToolTip": "..\\TaskManagerClean.Application\\UseCases\\Handllers\\DeleteTaskHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:52:11.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateTaskHandler.cs",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Handllers\\UpdateTaskHandler.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Application\\UseCases\\Handllers\\UpdateTaskHandler.cs",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Handllers\\UpdateTaskHandler.cs",
+              "RelativeToolTip": "..\\TaskManagerClean.Application\\UseCases\\Handllers\\UpdateTaskHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:18:32.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TasksEnum.cs",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Domain\\Enums\\TasksEnum.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Domain\\Enums\\TasksEnum.cs",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Domain\\Enums\\TasksEnum.cs",
+              "RelativeToolTip": "..\\TaskManagerClean.Domain\\Enums\\TasksEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:33:00.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateTaskHandler.cs",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Handllers\\CreateTaskHandler.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Application\\UseCases\\Handllers\\CreateTaskHandler.cs",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Application\\UseCases\\Handllers\\CreateTaskHandler.cs",
+              "RelativeToolTip": "..\\TaskManagerClean.Application\\UseCases\\Handllers\\CreateTaskHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T19:36:42.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskManagerClean.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Infrastructure\\TaskManagerClean.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Infrastructure\\TaskManagerClean.Infrastructure.csproj",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Infrastructure\\TaskManagerClean.Infrastructure.csproj",
+              "RelativeToolTip": "..\\TaskManagerClean.Infrastructure\\TaskManagerClean.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-01T18:46:50.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\TaskManagerClean.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:47:15.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TaskManagerClean.Persistence.csproj",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Persistence\\TaskManagerClean.Persistence.csproj",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Persistence\\TaskManagerClean.Persistence.csproj",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Persistence\\TaskManagerClean.Persistence.csproj",
+              "RelativeToolTip": "..\\TaskManagerClean.Persistence\\TaskManagerClean.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-01T18:43:33.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Persistence\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Persistence\\Repositories\\TaskRepository.cs",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Persistence\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "..\\TaskManagerClean.Persistence\\Repositories\\TaskRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:44:25.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Domain\\Interfaces\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Domain\\Interfaces\\ITaskRepository.cs",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Domain\\Interfaces\\ITaskRepository.cs",
+              "RelativeToolTip": "..\\TaskManagerClean.Domain\\Interfaces\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:36:30.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TaskManagerClean.Domain.csproj",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Domain\\TaskManagerClean.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Domain\\TaskManagerClean.Domain.csproj",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Domain\\TaskManagerClean.Domain.csproj",
+              "RelativeToolTip": "..\\TaskManagerClean.Domain\\TaskManagerClean.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-01T18:35:48.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TodoTask.cs",
+              "DocumentMoniker": "D:\\Learn_C#\\TaskManagerClean.Domain\\Entities\\TodoTask.cs",
+              "RelativeDocumentMoniker": "..\\TaskManagerClean.Domain\\Entities\\TodoTask.cs",
+              "ToolTip": "D:\\Learn_C#\\TaskManagerClean.Domain\\Entities\\TodoTask.cs",
+              "RelativeToolTip": "..\\TaskManagerClean.Domain\\Entities\\TodoTask.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:42:55.078Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

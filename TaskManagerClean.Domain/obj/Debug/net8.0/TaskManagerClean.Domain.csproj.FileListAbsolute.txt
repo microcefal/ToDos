@@ -1,0 +1,11 @@
+D:\Learn_C#\TaskManagerClean.Domain\bin\Debug\net8.0\TaskManagerClean.Domain.deps.json
+D:\Learn_C#\TaskManagerClean.Domain\bin\Debug\net8.0\TaskManagerClean.Domain.dll
+D:\Learn_C#\TaskManagerClean.Domain\bin\Debug\net8.0\TaskManagerClean.Domain.pdb
+D:\Learn_C#\TaskManagerClean.Domain\obj\Debug\net8.0\TaskManagerClean.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_C#\TaskManagerClean.Domain\obj\Debug\net8.0\TaskManagerClean.Domain.AssemblyInfoInputs.cache
+D:\Learn_C#\TaskManagerClean.Domain\obj\Debug\net8.0\TaskManagerClean.Domain.AssemblyInfo.cs
+D:\Learn_C#\TaskManagerClean.Domain\obj\Debug\net8.0\TaskManagerClean.Domain.csproj.CoreCompileInputs.cache
+D:\Learn_C#\TaskManagerClean.Domain\obj\Debug\net8.0\TaskManagerClean.Domain.dll
+D:\Learn_C#\TaskManagerClean.Domain\obj\Debug\net8.0\refint\TaskManagerClean.Domain.dll
+D:\Learn_C#\TaskManagerClean.Domain\obj\Debug\net8.0\TaskManagerClean.Domain.pdb
+D:\Learn_C#\TaskManagerClean.Domain\obj\Debug\net8.0\ref\TaskManagerClean.Domain.dll

@@ -1,0 +1,17 @@
+D:\Learn_C#\TaskManagerClean.Persistence\bin\Debug\net8.0\TaskManagerClean.Persistence.deps.json
+D:\Learn_C#\TaskManagerClean.Persistence\bin\Debug\net8.0\TaskManagerClean.Persistence.dll
+D:\Learn_C#\TaskManagerClean.Persistence\bin\Debug\net8.0\TaskManagerClean.Persistence.pdb
+D:\Learn_C#\TaskManagerClean.Persistence\bin\Debug\net8.0\TaskManagerClean.Domain.dll
+D:\Learn_C#\TaskManagerClean.Persistence\bin\Debug\net8.0\TaskManagerClean.Infrastructure.dll
+D:\Learn_C#\TaskManagerClean.Persistence\bin\Debug\net8.0\TaskManagerClean.Domain.pdb
+D:\Learn_C#\TaskManagerClean.Persistence\bin\Debug\net8.0\TaskManagerClean.Infrastructure.pdb
+D:\Learn_C#\TaskManagerClean.Persistence\obj\Debug\net8.0\TaskManagerClean.Persistence.csproj.AssemblyReference.cache
+D:\Learn_C#\TaskManagerClean.Persistence\obj\Debug\net8.0\TaskManagerClean.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_C#\TaskManagerClean.Persistence\obj\Debug\net8.0\TaskManagerClean.Persistence.AssemblyInfoInputs.cache
+D:\Learn_C#\TaskManagerClean.Persistence\obj\Debug\net8.0\TaskManagerClean.Persistence.AssemblyInfo.cs
+D:\Learn_C#\TaskManagerClean.Persistence\obj\Debug\net8.0\TaskManagerClean.Persistence.csproj.CoreCompileInputs.cache
+D:\Learn_C#\TaskManagerClean.Persistence\obj\Debug\net8.0\TaskMana.A3734E37.Up2Date
+D:\Learn_C#\TaskManagerClean.Persistence\obj\Debug\net8.0\TaskManagerClean.Persistence.dll
+D:\Learn_C#\TaskManagerClean.Persistence\obj\Debug\net8.0\refint\TaskManagerClean.Persistence.dll
+D:\Learn_C#\TaskManagerClean.Persistence\obj\Debug\net8.0\TaskManagerClean.Persistence.pdb
+D:\Learn_C#\TaskManagerClean.Persistence\obj\Debug\net8.0\ref\TaskManagerClean.Persistence.dll

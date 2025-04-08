@@ -1,0 +1,15 @@
+D:\Learn_C#\TaskManagerClean.Application\bin\Debug\net8.0\TaskManagerClean.Application.deps.json
+D:\Learn_C#\TaskManagerClean.Application\bin\Debug\net8.0\TaskManagerClean.Application.dll
+D:\Learn_C#\TaskManagerClean.Application\bin\Debug\net8.0\TaskManagerClean.Application.pdb
+D:\Learn_C#\TaskManagerClean.Application\bin\Debug\net8.0\TaskManagerClean.Domain.dll
+D:\Learn_C#\TaskManagerClean.Application\bin\Debug\net8.0\TaskManagerClean.Domain.pdb
+D:\Learn_C#\TaskManagerClean.Application\obj\Debug\net8.0\TaskManagerClean.Application.csproj.AssemblyReference.cache
+D:\Learn_C#\TaskManagerClean.Application\obj\Debug\net8.0\TaskManagerClean.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_C#\TaskManagerClean.Application\obj\Debug\net8.0\TaskManagerClean.Application.AssemblyInfoInputs.cache
+D:\Learn_C#\TaskManagerClean.Application\obj\Debug\net8.0\TaskManagerClean.Application.AssemblyInfo.cs
+D:\Learn_C#\TaskManagerClean.Application\obj\Debug\net8.0\TaskManagerClean.Application.csproj.CoreCompileInputs.cache
+D:\Learn_C#\TaskManagerClean.Application\obj\Debug\net8.0\TaskMana.4612CBA6.Up2Date
+D:\Learn_C#\TaskManagerClean.Application\obj\Debug\net8.0\TaskManagerClean.Application.dll
+D:\Learn_C#\TaskManagerClean.Application\obj\Debug\net8.0\refint\TaskManagerClean.Application.dll
+D:\Learn_C#\TaskManagerClean.Application\obj\Debug\net8.0\TaskManagerClean.Application.pdb
+D:\Learn_C#\TaskManagerClean.Application\obj\Debug\net8.0\ref\TaskManagerClean.Application.dll
